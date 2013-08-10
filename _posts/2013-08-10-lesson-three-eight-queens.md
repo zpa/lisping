@@ -11,7 +11,7 @@ the same row, or on the same column, or in the same diagonal.
 There is much to be written up on this (you may want to check Wikipedia for a
 detailed treatment), which I do not intend to repeat here. Although this problem
 obviously appeared first in the context of chess, its generalization to placing
-_n_ queens on an _n_-by-_n_ board is thoroughly studied in algorithmic complexity
+_n_ queens on an _n-by-n_ board is thoroughly studied in algorithmic complexity
 theory. To avoid making debatable statements, I will just note that it is not
 trivial to solve.
 
