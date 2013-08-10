@@ -8,7 +8,7 @@ how can you place eight queens on a chess board without any two being able to
 capture each other? Two queens can capture one another if they are either on
 the same row, or on the same column, or in the same diagonal.
 
-There is much to be written up on this (you may want to check Wikipedia for a
+There is much to be written up on this (you may want to check [Wikipedia](http://en.wikipedia.org/wiki/Eight_queens_puzzle) for a
 detailed treatment), which I do not intend to repeat here. Although this problem
 obviously appeared first in the context of chess, its generalization to placing
 _n_ queens on an _n-by-n_ board is thoroughly studied in algorithmic complexity
