@@ -2,6 +2,7 @@
 layout: default
 title: "Lesson Two: Quicksort"
 ---
+
 After having completed `fact`, or first Lisp function, let us look for a more ambitious challenge: implementing a sorting algorithm. Why not deal with quicksort while we are at it?
 
 I assume you more or less know how quicksort is supposed to work. The brief sketch of the algorithm is the following: we take an arbitrary pivot element from the set to be ordered, and we split the set of remaining elements to two sets. The first one contains elements that are smaller than the pivot, and the second one holds the rest. We then recursively apply this scheme on the first and second sets, and obtain the result as a concatenation of (1) the sorted first set, (2) the pivot element and (3) the sorted second set.
