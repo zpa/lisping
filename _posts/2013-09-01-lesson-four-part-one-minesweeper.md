@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lesson Four, Part One: Minesweeper, Problem Statement
+title: "Lesson Four, Part One: Minesweeper, Problem Statement"
 ---
 
 After having read much of
